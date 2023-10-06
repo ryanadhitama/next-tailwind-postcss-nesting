@@ -1,0 +1,6 @@
+.hero {
+    @apply bg-red-200 py-24;
+    &__title {
+      @apply text-4xl text-center;
+    }
+}
